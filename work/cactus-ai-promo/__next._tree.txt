@@ -1,0 +1,10 @@
+:HL["/_next/static/chunks/06mnsir-e1esp.css","style"]
+:HL["/_next/static/media/237858b39a32779d-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e7755c9813efd51-s.p.0pan85mumqyf3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a321a2c78eff0b5-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e63b65bb308a9351-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"cactus-ai-promo","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"work","h":96,"c":"$Q2"}]]
+0:{"b":"CuX0JEI7P5-ENFVM-_cPO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

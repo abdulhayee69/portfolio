@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://baig.is-pro.dev/sitemap.xml
